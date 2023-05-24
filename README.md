@@ -1,6 +1,6 @@
 # CS114
 Đây là bộ dữ liệu gồm 90 bức ảnh về written-hand digits.
-Được đóng góp bởi:
+  Được đóng góp bởi:
 
 |     Họ và tên     |    MSSV    |
 | :---------------: | :--------: |
