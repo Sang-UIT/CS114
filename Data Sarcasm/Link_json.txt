@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/uyenbhku/CS114.N21/main/sarcasm_detection_dataset/NSFW.json
+https://raw.githubusercontent.com/tqnghia210/CS114/main/data_ne.json
+https://raw.githubusercontent.com/ngcthc/CS114-ML-Public/main/sarcasm_detection_dataset.json
+https://raw.githubusercontent.com/Kuma221203/CS114/main/sarcasm_detection_dataset.json
+https://raw.githubusercontent.com/Quan-Minh/CS114/main/sarcasm_detection_dataset.json
+https://raw.githubusercontent.com/TruongNoDame/Sarcasm-Detection/main/sarcasm_detection_dataset.json
+https://raw.githubusercontent.com/Tlon9/CS114/main/sarcasm_detection_dataset.json
+https://raw.githubusercontent.com/npk7264/CS114/main/sarcasm_detection_dataset.json
+https://raw.githubusercontent.com/HungStark/sarcasm_detection_dataset/main/sarcasm_detection_dataset.json
