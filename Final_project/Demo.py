@@ -9,7 +9,7 @@ import wget
 import cv2
 import time
 # Configurations
-CFG_MODEL_PATH = "yolov5\\runs\\train\\exp4\\weights\\best.pt"
+CFG_MODEL_PATH = "yolo\\runs\\train\\exp4\\weights\\best.pt"
 
 def imageInput(model,model1, src):
 
@@ -89,7 +89,7 @@ def main():
 
 def loadv5s(device):
     model = torch.hub.load('ultralytics/yolov5', 'custom',
-                           path="yolov5\\runs\\train\\exp2\\weights\\best.pt", device=device)
+                           path="yolo\\runs\\train\\exp2\\weights\\best.pt", device=device)
     return model        
 
 def loadmodel(device):
